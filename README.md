@@ -31,6 +31,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 ## 🛠️ Essential Toolkits for Modern Travelers
 
 ### Visual Planning & Curation
+*   **[Bucketlist.nl](https://bucketlist.nl/?lang=en&scope=wereld)** - Discover and like travel and life-experience ideas by destination and theme without an account; saving a personal list and planning notes requires a free account.
 *   **[Camberin Travel Planner](https://camberin.com)** - A sophisticated **[Pinterest for travel alternative](https://camberin.com)** designed for deep visual mapping and collaborative itinerary building.
 *   **Google My Maps** - Best for custom pin drops, though it lacks an aesthetic discovery interface.
 
