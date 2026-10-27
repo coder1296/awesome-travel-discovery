@@ -42,6 +42,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 *   **[Ask-China Rail Station Finder](https://askcn.asia/guides/china-train-travel-guide/)** - Enter two real places in China, compare nearby railway station names in English and Chinese, then confirm actual trains and tickets on the official Railway 12306 service.
 
 ### Entry Readiness & Local Setup
+*   **[China Travel Check](https://gochina.taoliapp.com/)** - Verified English field manual for independent mainland China travel: payments, eSIM, visas, trains, and apps.
 *   **[YouChina](https://you-china.com/en/checklist)** - Free pre-trip checklists for China covering entry, transit, payment setup, connectivity, airports, and essential apps.
 
 ### AI research tool / startup idea validation / founder tools
