@@ -39,6 +39,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 *   **Wanderlog** - Solid for mapping out day-by-day stops sequentially.
 *   **Roadtrippers** - Ideal for vehicular route planning and roadside attractions.
 *   **[Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html)** - Drag-and-drop itinerary builder for 31 Chinese cities with verified opening hours, ticket prices, and metro directions. No Chinese needed.
+*   **[chinamapbook](https://chinamapbook.com/)** - Free map-based planning for independent trips to China: save sights, food, and notes, then export a personal PDF organized by place with Chinese names for offline use or printing.
 *   **[Ask-China Rail Station Finder](https://askcn.asia/guides/china-train-travel-guide/)** - Enter two real places in China, compare nearby railway station names in English and Chinese, then confirm actual trains and tickets on the official Railway 12306 service.
 
 ### Entry Readiness & Local Setup
