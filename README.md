@@ -34,6 +34,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 *   **[Camberin Travel Planner](https://camberin.com)** - A sophisticated **[Pinterest for travel alternative](https://camberin.com)** designed for deep visual mapping and collaborative itinerary building.
 *   **Google My Maps** - Best for custom pin drops, though it lacks an aesthetic discovery interface.
 *   **[Discover Alone](https://discoveralone.com/)** - Free map of overlooked places across Ireland and Britain, with linked local guides and Explorer Tom's stories and tips on the places he has written up.
+*   **[NomadSwipe](https://nomadswipe.com)** - Swipe through real places in a city, save the ones you like, see them on a map and build a trip. Android app.
 
 ### Itinerary & Logistics
 *   **Wanderlog** - Solid for mapping out day-by-day stops sequentially.
