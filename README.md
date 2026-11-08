@@ -36,6 +36,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 *   **[Discover Alone](https://discoveralone.com/)** - Free map of overlooked places across Ireland and Britain, with linked local guides and Explorer Tom's stories and tips on the places he has written up.
 
 ### Itinerary & Logistics
+*   **[WeatherChirp](https://weatherchirp.com/)** - Compare monthly climate normals and seasonal weather patterns to help choose when to travel.
 *   **Wanderlog** - Solid for mapping out day-by-day stops sequentially.
 *   **Roadtrippers** - Ideal for vehicular route planning and roadside attractions.
 *   **[Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html)** - Drag-and-drop itinerary builder for 31 Chinese cities with verified opening hours, ticket prices, and metro directions. No Chinese needed.
