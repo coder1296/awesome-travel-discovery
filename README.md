@@ -46,6 +46,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 *   **[PlaceCall](https://voygr.tech/placecall/)** - AI agent that phones US hotels, restaurants, tour operators and other businesses for you to book, confirm or ask about a reservation, gets through phone menus and holds, and returns the outcome and transcript. Works from an AI assistant or through the API; 250 free calls with a new API key, then paid per successful call.
 *   **[Mubboo Flights](https://mubboo.flights/)** - Compare flights, hotels and car rentals, with country and city guides, tours and attraction tickets for trip planning.
 *   **[No Stairs Please](https://nostairsplease.com/)** - Searchable US and British Columbia live-music venue directory with multi-stop tour route planning, step-free accessibility details, and load-in notes.
+*      **[China Tours Local](https://chinatourslocal.com/plan)** - Free China trip planner that generates a full guide in the browser — entry eligibility, official registers, itemised budget.
 
 ### Entry Readiness & Local Setup
 *   **[YouChina](https://you-china.com/en/checklist)** - Free pre-trip checklists for China covering entry, transit, payment setup, connectivity, airports, and essential apps.
