@@ -35,6 +35,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 *   **Google My Maps** - Best for custom pin drops, though it lacks an aesthetic discovery interface.
 *   **[Discover Alone](https://discoveralone.com/)** - Free map of overlooked places across Ireland and Britain, with linked local guides and Explorer Tom's stories and tips on the places he has written up.
 *   **[NomadSwipe](https://nomadswipe.com)** - Swipe through real places in a city, save the ones you like, see them on a map and build a trip. Android app.
+*   **[OpenMapp](https://www.openmapp.com)** - Free map of 1,366 US Brazilian jiu-jitsu gyms with class times, open mats and visitor drop-in prices.
 
 ### Itinerary & Logistics
 *   **[WeatherChirp](https://weatherchirp.com/)** - Compare monthly climate normals and seasonal weather patterns to help choose when to travel.
