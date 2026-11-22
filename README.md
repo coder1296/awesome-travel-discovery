@@ -38,6 +38,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 
 ### Itinerary & Logistics
 *   **[WeatherChirp](https://weatherchirp.com/)** - Compare monthly climate normals and seasonal weather patterns to help choose when to travel.
+*   **[Climatch](https://climatch.co)** - Pick a city and a month and find the places with the most similar climate: temperature, rain, humidity and sunshine.
 *   **Wanderlog** - Solid for mapping out day-by-day stops sequentially.
 *   **Roadtrippers** - Ideal for vehicular route planning and roadside attractions.
 *   **[Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html)** - Drag-and-drop itinerary builder for 31 Chinese cities with verified opening hours, ticket prices, and metro directions. No Chinese needed.
